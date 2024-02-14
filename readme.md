@@ -16,7 +16,7 @@ This repository serves as a collection of common data structures and algorithms 
 
 - **Linked List**: Implementation of a singly linked list.
 - **Stack**: Implementation of a stack using an array and linked list.
-- **Queue**: Implementation of a queue using an array and linked list.
+- **Queue**: Implementation of a queue using and linked list.
 - **Tree**: Basic binary tree and binary search tree implementations.
 - **Graph**: Graph representation and traversal algorithms.
 
